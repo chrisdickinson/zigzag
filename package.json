@@ -1,0 +1,24 @@
+{
+  "name": "zigzag",
+  "version": "0.0.0",
+  "description": "zigzag signed integer encoding and decoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/zigzag.git"
+  },
+  "keywords": [
+    "zigzag",
+    "encoding",
+    "integer",
+    "signed"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "~0.2.2"
+  }
+}
