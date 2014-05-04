@@ -14,7 +14,9 @@
     "zigzag",
     "encoding",
     "integer",
-    "signed"
+    "signed",
+    "protobuf",
+    "protocol buffers"
   ],
   "author": "Chris Dickinson <chris@neversaw.us>",
   "license": "MIT",
